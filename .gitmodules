@@ -1,6 +1,6 @@
 [submodule "CSGOModLite"]
 	path = CSGOModLite
-	url = https://github.com/Czarintax/CSGOModLite
+	url = ../CSGOModLite
 [submodule "CSDM-ReAPI"]
 	path = CSDM-ReAPI
 	url = https://github.com/wopox1337/CSDM-ReAPI
