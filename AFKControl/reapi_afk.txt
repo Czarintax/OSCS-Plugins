@@ -1,0 +1,20 @@
+[en]
+AFK_WARNS = ^9** WARNING! You are not active: [%i/%i]
+AFK_KICKED = %n was kicked from server (%s)
+AFK_TRANSFERED = %n was transferred to spectators (%s)
+AFK_TERRORIST_LEFT = Remaining 'Terrorists' player(s) AFK:
+AFK_CT_LEFT = Remaining 'CT' player(s) AFK:
+
+[ru]
+AFK_WARNS = ^9** ПРЕДУПРЕЖДЕНИЕ! Вы не проявляете активность: [%i/%i]
+AFK_KICKED = %n был кикнут с сервера (%s)
+AFK_TRANSFERED = %n был переведён в наблюдение (%s)
+AFK_TERRORIST_LEFT = оставшейся игроки команды террористов -- AFK
+AFK_CT_LEFT = оставшейся игроки команды спецназ -- AFK
+
+[tr]
+AFK_WARNS = ^9** UYARI! Aktif degilsin: [%i/%i]
+AFK_KICKED = %n was kicked from server (%s)
+AFK_TRANSFERED = %n was transferred to spectators (%s)
+AFK_TERRORIST_LEFT = Remaining 'Terrorists' player(s) AFK:
+AFK_CT_LEFT = Remaining 'CT' player(s) AFK:

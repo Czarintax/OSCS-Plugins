@@ -1,0 +1,53 @@
+[en]
+TB_INFO = Your team changed to
+TB_CT = Counter-Terrorists
+TB_TT = Terrorists
+TB_PREFIX = ^1[^4OSCS^1]
+TB_RESTRICT_OPEN_MENU = ^1Team change will be allowed in ^4%d ^1seconds
+TB_MENU_HEADER = \yChoose team:^n^n
+TB_MENU_EXIT = \y0. \wExit
+TB_CANT_JOIN_TT = \y1. \dTerrorists [%d]^n
+TB_CAN_JOIN_TT = \y1. \wTerrorists [%d]^n
+TB_CANT_JOIN_СT = \y2. \dCounter-Terrorists [%d]^n^n
+TB_CAN_JOIN_СT = \y2. \wCounter-Terrorists [%d]^n^n
+TB_AUTO_CHOOSE = \y5. \wAuto-Choose^n
+TB_CANT_SPECTATE = \y6. \dSpectators^n^n^n
+TB_CAN_SPECTATE = \y6. \wSpectators^n^n^n
+TB_AUTO_MENU = \y1. \rJoin game^n
+TB_ADMIN_INFO = %s was moved to
+
+[ru]
+TB_INFO = Вы были переведы за
+TB_CT = Контр-Террористов
+TB_TT = Террористов
+TB_PREFIX = ^1[^4OSCS^1]
+TB_RESTRICT_OPEN_MENU = ^1Сменить команду можно через ^4%d ^1секунд
+TB_MENU_HEADER = \yВыбор команды:^n^n
+TB_MENU_EXIT = \y0. \wВыход
+TB_CANT_JOIN_TT = \y1. \dТеррористы [%d]^n
+TB_CAN_JOIN_TT = \y1. \wТеррористы [%d]^n
+TB_CANT_JOIN_СT = \y2. \dКонтр-террористы [%d]^n^n
+TB_CAN_JOIN_СT = \y2. \wКонтр-террористы [%d]^n^n
+TB_AUTO_CHOOSE = \y5. \wАвто-Выбор^n
+TB_CANT_SPECTATE = \y6. \dНаблюдение^n^n^n
+TB_CAN_SPECTATE = \y6. \wНаблюдение^n^n^n
+TB_AUTO_MENU = \y1. \rВойти в игру^n
+TB_ADMIN_INFO = %s был переведен за
+
+[tr]
+TB_INFO = Yeni takimin
+TB_CT = Anti-Teroristler
+TB_TT = Teroristler
+TB_PREFIX = ^1[^4OSCS^1]
+TB_RESTRICT_OPEN_MENU = ^1Team change will be allowed in ^4%d ^1seconds
+TB_MENU_HEADER = \yTakim sec:^n^n
+TB_MENU_EXIT = \y0. \wCikis
+TB_CANT_JOIN_TT = \y1. \dTerroristler [%d]^n
+TB_CAN_JOIN_TT = \y1. \wTerroristler [%d]^n
+TB_CANT_JOIN_СT = \y2. \dAnti-Teroristler [%d]^n^n
+TB_CAN_JOIN_СT = \y2. \wAnti-Teroristler [%d]^n^n
+TB_AUTO_CHOOSE = \y5. \wOto-Secim^n
+TB_CANT_SPECTATE = \y6. \dSeyirciler^n^n^n
+TB_CAN_SPECTATE = \y6. \wSeyirciler^n^n^n
+TB_AUTO_MENU = \y1. \rOyuna katil^n
+TB_ADMIN_INFO = %s tasindigi takim

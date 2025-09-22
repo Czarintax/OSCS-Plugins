@@ -1,0 +1,41 @@
+[en]
+ACCESS_MANAGER__STOP_SPAM = * You must wait %02d:%02d
+ACCESS_MANAGER__RELOADING_ADMINS = * Reloading of the account's list is initiated...
+ACCESS_MANAGER__ACCESS_INFO = * You got access flags: %s
+ACCESS_MANAGER__ACCESS_DENIED = Protected %L
+ACCESS_MANAGER__NAME = Nick
+ACCESS_MANAGER__XASHID = ID
+ACCESS_MANAGER__IP = IP
+ACCESS_MANAGER__KICK_INFO_1 = * Type: setinfo "%s" "your_password"
+ACCESS_MANAGER__KICK_INFO_2 = * Don't know the password?
+ACCESS_MANAGER__VISIT_SITE = Contact the admin
+ACCESS_MANAGER__CHANGE_NAME = Then change your nickname!
+ACCESS_MANAGER__NO_ACCESS = * You have no access to this function!
+
+[ru]
+ACCESS_MANAGER__STOP_SPAM = * Подождите ещё %02d:%02d
+ACCESS_MANAGER__RELOADING_ADMINS = * Инициирована перезагрузка списка учётных записей...
+ACCESS_MANAGER__ACCESS_INFO = * Вы получили флаги доступа: %s
+ACCESS_MANAGER__ACCESS_DENIED = Защищенный %L
+ACCESS_MANAGER__NAME = Ник
+ACCESS_MANAGER__XASHID = ID
+ACCESS_MANAGER__IP = IP
+ACCESS_MANAGER__KICK_INFO_1 = * Пропишите: setinfo "%s" "ваш_пароль"
+ACCESS_MANAGER__KICK_INFO_2 = * Не знаете пароль?
+ACCESS_MANAGER__VISIT_SITE = Связь с админом
+ACCESS_MANAGER__CHANGE_NAME = Тогда смените ник!
+ACCESS_MANAGER__NO_ACCESS = * У вас нет доступа к данной функции!
+
+[tr]
+ACCESS_MANAGER__STOP_SPAM = * Su kadar sure bekle: %02d:%02d
+ACCESS_MANAGER__RELOADING_ADMINS = * Hesap listesinin yeniden yuklenmesi baslatildi...
+ACCESS_MANAGER__ACCESS_INFO = * Mevcut yetkilerin: %s
+ACCESS_MANAGER__ACCESS_DENIED = Korumali %L
+ACCESS_MANAGER__NAME = Nick
+ACCESS_MANAGER__XASHID = ID
+ACCESS_MANAGER__IP = IP
+ACCESS_MANAGER__KICK_INFO_1 = * Gir: setinfo "%s" "kisisel_sifre"
+ACCESS_MANAGER__KICK_INFO_2 = * Sifreyi bilmiyor musun?
+ACCESS_MANAGER__VISIT_SITE = Adminle iletisime gec
+ACCESS_MANAGER__CHANGE_NAME = O halde nickini degis!
+ACCESS_MANAGER__NO_ACCESS = * Bu isleve erisimin yok!

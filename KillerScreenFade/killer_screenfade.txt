@@ -1,0 +1,59 @@
+[en]
+KSF_MENU_TITLE = \yScreenFade Settings
+KSF_MENU_ITEM1 = \w1. Screen Fade Color
+KSF_MENU_ITEM2 = \w2. Color Transparency
+KSF_MENU_ITEM3 = \w3. Screen Fade State
+KSF_MENU_EXIT = \w0. Save & Exit 
+
+KSF_COLOR_RANDOM = Random
+KSF_COLOR_BLUE = Blue
+KSF_COLOR_ORANGE = Orange
+KSF_COLOR_VIOLET = Violet
+KSF_COLOR_GREEN = Green
+KSF_COLOR_PINK = Pink
+KSF_COLOR_WHITE = White
+KSF_COLOR_RED = Red
+
+KSF_STATE_DISABLED = Disabled
+KSF_STATE_ENABLED = Enabled
+KSF_STATE_ONLY_HS = HS Only
+
+[ru]
+KSF_MENU_TITLE = \yМеню Настройки
+KSF_MENU_ITEM1 = \w1. Цвет
+KSF_MENU_ITEM2 = \w2. Прозрачность
+KSF_MENU_ITEM3 = \w3. Состояние
+KSF_MENU_EXIT = \w0. Сохранить и выйти 
+
+KSF_COLOR_RANDOM = Рандомно
+KSF_COLOR_BLUE = Синий
+KSF_COLOR_ORANGE = Оранжевый
+KSF_COLOR_VIOLET = Фиолетовый
+KSF_COLOR_GREEN = Зеленый
+KSF_COLOR_PINK = Розовый
+KSF_COLOR_WHITE = Белый
+KSF_COLOR_RED = Красный
+
+KSF_STATE_DISABLED = Отключен
+KSF_STATE_ENABLED = Включен
+KSF_STATE_ONLY_HS = Только хедшоте
+
+[tr]
+KSF_MENU_TITLE = \yScreenFade Ayarlari
+KSF_MENU_ITEM1 = \w1. Screen Fade Rengi
+KSF_MENU_ITEM2 = \w2. Renk Saydamligi
+KSF_MENU_ITEM3 = \w3. Screen Fade Durumu
+KSF_MENU_EXIT = \w0. Kaydet & Cik
+
+KSF_COLOR_RANDOM = Rastgele
+KSF_COLOR_BLUE = Mavi
+KSF_COLOR_ORANGE = Turuncu
+KSF_COLOR_VIOLET = Menekse
+KSF_COLOR_GREEN = Yesil
+KSF_COLOR_PINK = Pembe
+KSF_COLOR_WHITE = Beyaz
+KSF_COLOR_RED = Kirmizi
+
+KSF_STATE_DISABLED = Kapali
+KSF_STATE_ENABLED = Acik
+KSF_STATE_ONLY_HS = Sadece HS

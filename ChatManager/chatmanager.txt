@@ -1,0 +1,41 @@
+[en]
+CM_TEAM_TE = Terrorist
+CM_TEAM_CT = CT
+CM_TEAM_SPEC = Spectator
+CM_CHAN_DEAD = DEAD
+CM_CHAN_SPEC = SPEC
+
+CM_ADDON_WARN_MIN_MSG_DELAY = ^9[^3OSCS^1] Stop spamming!
+CM_ADDON_WARN_MAX_IDENTICAL_MSG = ^9[^3CM^1] Stop spamming! Identical msg.
+CM_ADDON_WARN_MAX_CAPS_PERCENT = ^9[^3OSCS^1] Stop using caps!
+CM_ADDON_WARN_BLOCKED_IP = ^9[^3OSCS^1] Founded IP pattern!
+CM_ADDON_WARN_BLOCKED_DOMAIN = ^9[^3OSCS^1] Founded Domain pattern!
+CM_ADDON_WARN_BLOCKED_CHAT = ^9[^3OSCS^1] Your chat has been blocked for %.0f seconds!
+
+[ru]
+CM_TEAM_TE = Террорист
+CM_TEAM_CT = КТ
+CM_TEAM_SPEC = Наблюдатель
+CM_CHAN_DEAD = УБИТ
+CM_CHAN_SPEC = НАБЛЮДАТЕЛЬ
+
+CM_ADDON_WARN_MIN_MSG_DELAY = 9^[^3OSCS^1] Прекратите спамить!
+CM_ADDON_WARN_MAX_IDENTICAL_MSG = 9^[^3OSCS^1] Прекратите спамить! Идентичное сообщение.
+CM_ADDON_WARN_MAX_CAPS_PERCENT = 9^[^3OSCS^1] Прекратите использовать заглавные буквы!
+CM_ADDON_WARN_BLOCKED_IP = ^9[^3OSCS^1] Основан паттерн ip!
+CM_ADDON_WARN_BLOCKED_DOMAIN = ^9[^3OSCS^1] Создан шаблон домена!
+CM_ADDON_WARN_BLOCKED_CHAT = ^9[^3OSCS^1] Ваш чат заблокирован на %.0f секунд!
+
+[tr]
+CM_TEAM_TE = Terrorist
+CM_TEAM_CT = CT
+CM_TEAM_SPEC = Seyirci
+CM_CHAN_DEAD = OLU
+CM_CHAN_SPEC = SEYIRCI
+
+CM_ADDON_WARN_MIN_MSG_DELAY = ^1[^3OSCS^1] Spam yapmayi birak!
+CM_ADDON_WARN_MAX_IDENTICAL_MSG = ^1[^3OSCS^1] Spam yapmayi birak! Ayni mesaj.
+CM_ADDON_WARN_MAX_CAPS_PERCENT = ^1[^3OSCS^1] Caps kullanmayi birak!
+CM_ADDON_WARN_BLOCKED_IP = ^1[^3OSCS^1] IP modeli bulundu!
+CM_ADDON_WARN_BLOCKED_DOMAIN = ^1[^3OSCS^1] Domain modeli bulundu!
+CM_ADDON_WARN_BLOCKED_CHAT = ^1[^3OSCS^1] Sohbetin %.0f saniyeligine engellendi!

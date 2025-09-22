@@ -1,0 +1,53 @@
+[en]
+SAYME_HITZONE_1 = -
+SAYME_HITZONE_2 = head
+SAYME_HITZONE_3 = chest
+SAYME_HITZONE_4 = stomach
+SAYME_HITZONE_5 = left arm
+SAYME_HITZONE_6 = right arm
+SAYME_HITZONE_7 = left leg
+SAYME_HITZONE_8 = right leg
+
+SAYME_NOT_ALIVE = ^3This feature is only available to dead players!
+
+SAYME_DMG_DEALT = ^3You have dealt ^1%d ^3damage. The last hit to the ^2%L^3.
+SAYME_HIT_NOONE = ^3You didn't hit anyone.
+
+SAYME_NO_KILLER = ^3Nobody killed you.
+SAYME_WHO_KILLS = ^3Killed by %s from a distance of ^1%.0f ^3meters. He has left: ^1%.0f^2HP ^3and ^1%.0f^2AP
+
+[ru]
+SAYME_HITZONE_1 = -
+SAYME_HITZONE_2 = голову
+SAYME_HITZONE_3 = грудь
+SAYME_HITZONE_4 = живот
+SAYME_HITZONE_5 = левую руку
+SAYME_HITZONE_6 = правую руку
+SAYME_HITZONE_7 = левую ногу
+SAYME_HITZONE_8 = правую ногу
+
+SAYME_NOT_ALIVE = ^3Данная функция доступна только мертвым игрокам!
+
+SAYME_DMG_DEALT = ^3Вы нанесли ^1%d ^3урона. Последнее попадание в ^2%L^3.
+SAYME_HIT_NOONE = ^3Вы ни в кого не попали.
+
+SAYME_NO_KILLER = ^3Вас никто не убивал.
+SAYME_WHO_KILLS = ^3Вас убил: %s с расстояния ^1%.0f ^3метров. У него осталось: ^1%.0f^2HP ^3и ^1%.0f^3AP
+
+[tr]
+SAYME_HITZONE_1 = -
+SAYME_HITZONE_2 = kafa
+SAYME_HITZONE_3 = gogus
+SAYME_HITZONE_4 = karin
+SAYME_HITZONE_5 = sol el
+SAYME_HITZONE_6 = sag el
+SAYME_HITZONE_7 = sol bacak
+SAYME_HITZONE_8 = sag bacak
+
+SAYME_NOT_ALIVE = ^3Bu ozellik sadece olu oyuncular tarafindan kullanilabilir!
+
+SAYME_DMG_DEALT = ^1%d ^3hasar verdin. Son isabet: ^2%L^3.
+SAYME_HIT_NOONE = ^3Kimseye vurmadin.
+
+SAYME_NO_KILLER = ^3Seni kimse oldurmedi.
+SAYME_WHO_KILLS = %s tarafindan ^1%.0f ^3metre mesafeden olduruldun. Kalan: ^1%.0f^2HP ^3ve ^1%.0f^2AP

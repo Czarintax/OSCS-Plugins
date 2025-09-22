@@ -1,0 +1,17 @@
+[en]
+RS_CHAT_MSG_ALL = %n ^7reset his score
+RS_CHAT_MSG_YOU = You reset your score!
+RS_CHAT_ERROR = Request denied!
+RS_CHAT_FLOOD = Try again in %d sec!
+
+[ru]
+RS_CHAT_MSG_ALL = %n ^7сбросил счёт
+RS_CHAT_MSG_YOU = Ты сбросили счёт!
+RS_CHAT_ERROR = Запрос отклонен!
+RS_CHAT_FLOOD = Повторите попытку через %d сек!
+
+[tr]
+RS_CHAT_MSG_ALL = %n ^7skorunu sifirladi
+RS_CHAT_MSG_YOU = Skorunu sifirladin!
+RS_CHAT_ERROR = Talebin reddedildi!
+RS_CHAT_FLOOD = %d sn sonra tekrar dene!

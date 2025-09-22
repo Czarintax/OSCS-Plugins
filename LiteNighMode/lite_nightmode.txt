@@ -1,0 +1,11 @@
+[en]
+LITE_NIGHTMODE_AUTORR = Teams switch in %d round(s)
+LITE_NIGHTMODE_RTVHOOK = ^1Unavailable during night mode.
+
+[ru]
+LITE_NIGHTMODE_AUTORR = Команды меняются через %d раундов
+LITE_NIGHTMODE_RTVHOOK = ^1Недоступно в ночном режиме.
+
+[tr]
+LITE_NIGHTMODE_AUTORR = Takimlar %d tur sonra degisiyor
+LITE_NIGHTMODE_RTVHOOK = ^0Gece modunda kullanilamaz.

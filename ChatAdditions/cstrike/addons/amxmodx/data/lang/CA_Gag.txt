@@ -1,0 +1,346 @@
+[ru]
+Gag_MenuTitle_PlayersList = Заглушить игрока
+Gag_MenuTitle_SelectReason = Выберите причину:
+Gag_MenuTitle_SelectTime = Выберите время для заглушки:
+Gag_MenuItem_RemoveGag = \rСнять\w
+Gag_MenuItem_EditGag = Редактировать
+Gag_MenuItem_ShowGag = Заглушка игрока [\r%s\y]:
+Gag_MenuItem_PropSay = Чат:
+Gag_MenuItem_PropSayTeam = Командный чат:
+Gag_MenuItem_PropVoice = Голосовое общение:
+Gag_MenuItem_Time = Время:
+Gag_MenuItem_Confirm = Подтвердить!
+Gag_MenuItem_Reason = Причина:
+Gag_MenuItem_Resolution = Время: \y%s\w (причина: \y%s\w)
+Gag_MenuItem_Admin = Назначил:
+Gag_MenuItem_Type = Тип:
+Gag_MenuItem_Length = Длительность:
+Gag_MenuItem_Expire = Истекает:
+Gag_MenuItem_Left = Осталось:
+
+Gag_SelectFlags = Параметры заглушки игрока: [ \r%n\y ]
+Gag_EnterReason = Ввести свою ->\n
+Gag_EnterTime = Указать время ->
+
+Gag_Immunity = Иммунитет
+Gag_Gagged = *МОЛЧУН*
+
+Gag_ChatMsg_Reason = ^4Причина:^1
+Gag_NotSet = Не задано
+Gag_Permanent = *НАВСЕГДА*
+
+Gag_AdminGagPlayer = ^3заглушил ^1игрока ^4%s^1
+Gag_AdminUngagPlayer = ^3снял ^1заглушку с игрока ^4%s^1
+Gag_PlayerNotConnected = ^3Игрок недоступен!^1
+Gag_PlayerAlreadyRemoved = ^3Игрок ^4%n^1 уже удалён!^1
+Gag_PlayerExpiredGag = ^3У игрока ^4%n^1 истекло время заглушки.
+
+Gag_NotEnoughPlayers = ^3Недостаточно игроков, чтобы открыть меню!
+Gag_NoTemplatesAvailable_Reasons = ^3Нет шаблонов выбора причин.
+Gag_NoTemplatesAvailable_Times = ^3Нет шаблонов выбора времени.
+
+Gag_YouSetManual_Time = ^3Вы установили своё время:^1
+Gag_YouSetManual_Reason = ^3Вы установили причину заглушки:^1
+Gag_NotValidTimeEntered = ^3Время указано неверно:^1
+
+Gag_NotifyPlayer_BlockedChat = ^1Вам ^3заблокировали чат^1.
+
+Gag_prefix = [^3GAG^1]
+
+Gag_BackToPlayersMenu = К списку игроков
+
+[en]
+Gag_MenuTitle_PlayersList = Gag player
+Gag_MenuTitle_SelectReason = Choose reason:
+Gag_MenuTitle_SelectTime = Choose gag time:
+Gag_MenuItem_RemoveGag = \rRemove\w
+Gag_MenuItem_EditGag = Edit
+Gag_MenuItem_ShowGag = Player gag [\r%s\y]:
+Gag_MenuItem_PropSay = Chat:
+Gag_MenuItem_PropSayTeam = Team chat:
+Gag_MenuItem_PropVoice = Voice chat:
+Gag_MenuItem_Time = Time:
+Gag_MenuItem_Confirm = Confirm!
+Gag_MenuItem_Reason = Reason:
+Gag_MenuItem_Resolution =  Time: \y%s\w (reason: \y%s\w)
+Gag_MenuItem_Admin = Admin:
+Gag_MenuItem_Type = Type:
+Gag_MenuItem_Length = Duration:
+Gag_MenuItem_Expire = Expire at:
+Gag_MenuItem_Left = Left:
+
+Gag_SelectFlags = Gag parameters: [ \r%n\y ]
+Gag_EnterReason = Enter gag reason ->\n
+Gag_EnterTime = Enter gag time ->
+
+Gag_Immunity = Gag_Immunity
+Gag_Gagged = *GAG*
+
+Gag_ChatMsg_Reason = ^4Reason:^1
+Gag_NotSet = Not selected
+Gag_Permanent = *PERMANENT*
+
+Gag_AdminGagPlayer = ^3gag ^1player ^4%s^1
+Gag_AdminUngagPlayer = ^3remove ^1gag from player ^4%s^1
+Gag_PlayerNotConnected = ^3Player not connected!
+Gag_PlayerAlreadyRemoved = ^3Player ^4%n^1 already removed!^1
+Gag_PlayerExpiredGag = ^3Player ^4%n^1 has expired gag.
+
+Gag_NotEnoughPlayers = ^3Not enough players to open menu!
+Gag_NoTemplatesAvailable_Reasons = No have reasons templates.
+Gag_NoTemplatesAvailable_Times = No have time templates.
+
+Gag_YouSetManual_Time = ^3You set custom time:^1
+Gag_YouSetManual_Reason = ^3You set custom reason:^1
+Gag_NotValidTimeEntered = ^3Entered time not valid:^1
+
+Gag_NotifyPlayer_BlockedChat = ^1Your ^3chat has been blocked^1.
+
+Gag_prefix = [^3GAG^1]
+
+Gag_BackToPlayersMenu = To players list
+
+[es]
+Gag_MenuTitle_PlayersList = Silenciar Jugador
+Gag_MenuTitle_SelectReason = Elegir Motivo:
+Gag_MenuTitle_SelectTime = Elegir Tiempo:
+Gag_MenuItem_RemoveGag = \rQuitar\w
+Gag_MenuItem_EditGag = Editar
+Gag_MenuItem_ShowGag = Jugador Silenciado [\r%s\y]:
+Gag_MenuItem_PropSay = Chat:
+Gag_MenuItem_PropSayTeam = Team Chat:
+Gag_MenuItem_PropVoice = Voz Chat:
+Gag_MenuItem_Time = Tiempo:
+Gag_MenuItem_Confirm = Confirmar!
+Gag_MenuItem_Reason = Motivo:
+Gag_MenuItem_Resolution = Tiempo: \y%s\w (Motivo: \y%s\w)
+Gag_MenuItem_Admin = Admin:
+Gag_MenuItem_Type = Tipo:
+Gag_MenuItem_Length = Duracion:
+Gag_MenuItem_Expire = Expira:
+Gag_MenuItem_Left = Restante:
+
+Gag_GagProperties = Parametros Silencio: [ \r%n\y ]
+Gag_EnterReason = Ingresar Motivo ->\n
+Gag_EnterTime = Ingresar Tiempo->
+
+Gag_Immunity = Inmunidad
+Gag_Gagged = Silenciado
+
+Gag_ChatMsg_Reason = ^4Motivo:^1
+Gag_NotSet = No Definido
+Gag_Permanent = Permanente
+
+Gag_AdminGagPlayer = ^3silencio ^1a jugador ^4%s^1
+Gag_AdminUngagPlayer = ^3quito ^1silencio a jugador ^4%s^1
+Gag_PlayerNotConnected = ^3Jugador no conectado!
+Gag_PlayerAlreadyRemoved = ^3Jugador ^4%n^1 ya quitado!^1
+Gag_PlayerExpiredGag = ^3Jugador ^4%n^1 ha expirado el silencio.
+
+Gag_NotEnoughPlayers = ^3No hay suficiente jugadores!
+Gag_NoTemplatesAvailable_Reasons = No hay plantillas de motivos.
+Gag_NoTemplatesAvailable_Times = No hay plantillas de tiempo.
+
+Gag_YouSetManual_Time = ^3Tiempo Personalizado:^1
+Gag_YouSetManual_Reason = ^3Motivo Personalizado:^1
+Gag_NotValidTimeEntered = ^3Tiempo ingresado no es valido:^1
+
+Gag_NotifyPlayer_BlockedChat = ^1Tu ^3chat ha sido bloqueado^1.
+
+Gag_prefix = [^3GAG^1]
+
+[de]
+Gag_MenuTitle_PlayersList = Spieler stummschalten
+Gag_MenuTitle_SelectReason = Wählen einen Grund:
+Gag_MenuTitle_SelectTime = Wähle die Dauer:
+Gag_MenuItem_RemoveGag = \gEntfernen\w
+Gag_MenuItem_EditGag = Bearbeiten
+Gag_MenuItem_ShowGag = Muted Spieler [\r%s\y]:
+Gag_MenuItem_PropSay = Chat:
+Gag_MenuItem_PropSayTeam = Team Chat:
+Gag_MenuItem_PropVoice = Voice:
+Gag_MenuItem_Time = Dauer:
+Gag_MenuItem_Confirm = Bestätigen!
+Gag_MenuItem_Reason = Grund:
+Gag_MenuItem_Resolution = Dauer: \y%s\w (Grund: \y%s\w)
+Gag_MenuItem_Admin = Admin:
+Gag_MenuItem_Type = Typ:
+Gag_MenuItem_Length = Dauer:
+Gag_MenuItem_Expire = Läuft ab:
+Gag_MenuItem_Left = Verbleibend:
+
+Gag_SelectFlags = Mute-Parameter: [ \r%n\y ]
+Gag_EnterReason = Der Grund ist ->\n
+Gag_EnterTime = Dauer setzen ->
+
+Gag_Immunity = Immunität
+Gag_Gagged = Stummgeschaltet
+
+Gag_ChatMsg_Reason = ^4Grund:^1
+Gag_NotSet = N/A
+Gag_Permanent = Permanent
+
+Gag_AdminGagPlayer = ^3Mute ^4%s^1
+Gag_AdminUngagPlayer = ^3Mute ^1von ^4%s^1 aufheben
+Gag_PlayerNotConnected = ^3Spieler nicht verbunden!
+Gag_PlayerAlreadyRemoved = ^3Spieler ^4%n^1 bereits entfernt!
+Gag_PlayerExpiredGag = ^3Mute des Spielers ^4%n^1 abgelaufen.
+
+Gag_NotEnoughPlayers = ^3Nicht genug Spieler
+Gag_NoTemplatesAvailable_Reasons = ^3Keine Gründe vorhanden.
+Gag_NoTemplatesAvailable_Times = ^3Keine Dauer vorhanden.
+
+Gag_YouSetManual_Time = ^3Dauer:^1
+Gag_YouSetManual_Reason = ^3Grund für Muten:^1
+Gag_NotValidTimeEntered = ^3Die Dauer stimmt nicht:^1
+
+Gag_NotifyPlayer_BlockedChat = ^1Dein ^3Chat wurde blockeriert^1.
+
+Gag_prefix = [^3GAG^1]
+
+[pl]
+Gag_MenuTitle_PlayersList = Zgaguj gracza
+Gag_MenuTitle_SelectReason = Wybrany gracz:
+Gag_MenuTitle_SelectTime = Wybierz czas:
+Gag_MenuItem_RemoveGag = \rUsun\w
+Gag_MenuItem_EditGag = Edytuj
+Gag_MenuItem_ShowGag = Zgagowany gracz [\r%s\y]:
+Gag_MenuItem_PropSay = Czat:
+Gag_MenuItem_PropSayTeam = Team czat:
+Gag_MenuItem_PropVoice = Voice czat:
+Gag_MenuItem_Time = Czas:
+Gag_MenuItem_Confirm = Potwierdz!
+Gag_MenuItem_Reason = Powod:
+Gag_MenuItem_Resolution =  Czas:\y %s\w (powod:\y %s\w)
+Gag_MenuItem_Admin = Admin:
+Gag_MenuItem_Type = Typ:
+Gag_MenuItem_Length = Czas trwania:
+Gag_MenuItem_Expire = Wygasa:
+Gag_MenuItem_Left = Pozostalo:
+
+Gag_SelectFlags = Flagi gagowania: [\r %n\y]
+Gag_EnterReason = Podaj powod gaga ->\n
+Gag_EnterTime = Podaj czas gaga ->
+
+Gag_Immunity = Immunitet
+Gag_Gagged = *GAG*
+
+Gag_ChatMsg_Reason = ^4Powod:^1
+Gag_NotSet = Nie wybrano
+Gag_Permanent = permanentny
+
+Gag_AdminGagPlayer = ^3Zgagowany ^1gracz ^4%s^1
+Gag_AdminUngagPlayer = ^3Odgagowal ^1gracza ^4%s^1
+Gag_PlayerNotConnected = ^3Gracz nie jest polaczony!
+Gag_PlayerAlreadyRemoved = ^3Gracz ^4%n^1 zostal juz usuniety!^1
+Gag_PlayerExpiredGag = ^3Graczowi ^4%n^1 wlasnie wygasla blokada.
+
+Gag_NotEnoughPlayers = ^4Na serwerze nie ma nikogo^1, kogo bys mogl zgagowac!
+Gag_NoTemplatesAvailable_Reasons = Brak powodow
+Gag_NoTemplatesAvailable_Times = Brak czasow.
+
+Gag_YouSetManual_Time = ^4Ustawiles wlasny czas:^3
+Gag_YouSetManual_Reason = ^3Ustawiles wlasny powod:^3
+Gag_NotValidTimeEntered = ^3Wprowadzony czas jest nieprawidlowy:^1
+
+Gag_NotifyPlayer_BlockedChat = ^3Zostales zgagowany^1.
+
+Gag_prefix = [^3GAG^1]
+
+[ua]
+Gag_MenuTitle_PlayersList = Заглушити гравця
+Gag_MenuTitle_SelectReason = Оберіть причину:
+Gag_MenuTitle_SelectTime = Оберіть час для заглушки:
+Gag_MenuItem_RemoveGag = \rЗняти\w
+Gag_MenuItem_EditGag = Редагувати
+Gag_MenuItem_ShowGag = Заглушка гравця [\r%s\y]:
+Gag_MenuItem_PropSay = Чат:
+Gag_MenuItem_PropSayTeam = Командний чат:
+Gag_MenuItem_PropVoice = Голосове спілкування:
+Gag_MenuItem_Time = Час:
+Gag_MenuItem_Confirm = Підтвердити!
+Gag_MenuItem_Reason = Причина:
+Gag_MenuItem_Resolution = Час: \y%s\w (причина: \y%s\w)
+Gag_MenuItem_Admin = Призначив:
+Gag_MenuItem_Type = Тип:
+Gag_MenuItem_Length = Тривалість:
+Gag_MenuItem_Expire = Спливає:
+Gag_MenuItem_Left = Залишилося:
+
+Gag_SelectFlags = Параметри заглушки гравця: [ \r%n\y ]
+Gag_EnterReason = Ввести свою ->\n
+Gag_EnterTime = Вказати час ->
+
+Gag_Immunity = Іммунітет
+Gag_Gagged = *МОЛЧУН*
+
+Gag_ChatMsg_Reason = ^4Причина:^1
+Gag_NotSet = Не задано
+Gag_Permanent = *НАЗАВЖДИ*
+
+Gag_AdminGagPlayer = ^3заглушив ^1гравця ^4%s^1
+Gag_AdminUngagPlayer = ^3зняв ^1заглушку із гравця ^4%s^1
+Gag_PlayerNotConnected = ^3Гравець недоступний!^1
+Gag_PlayerAlreadyRemoved = ^3Гравець ^4%n^1 вже видалений!^1
+Gag_PlayerExpiredGag = ^3У гравця ^4%n^1 сплив час заглушки.
+
+Gag_NotEnoughPlayers = ^3Недостатньо гравців, щоб відкрити меню!
+Gag_NoTemplatesAvailable_Reasons = ^3Не має шаблонів вибору причин.
+Gag_NoTemplatesAvailable_Times = ^3Не має шаблонів вибору часу.
+
+Gag_YouSetManual_Time = ^3Ви встановили свій час:^1
+Gag_YouSetManual_Reason = ^3Ви встановили причину заглушки:^1
+Gag_NotValidTimeEntered = ^3Час вказаний невірно:^1
+
+Gag_NotifyPlayer_BlockedChat = ^1Вам ^1заблокували чат^1.
+
+Gag_prefix = [^3GAG^1]
+
+[ro]
+Gag_MenuTitle_PlayersList = Gag unui jucator
+Gag_MenuTitle_SelectReason = Alege motivul:
+Gag_MenuTitle_SelectTime = Alege timpul gag-ului:
+Gag_MenuItem_RemoveGag = \rInlatura\w
+Gag_MenuItem_EditGag = Editeaza
+Gag_MenuItem_ShowGag = Jucatorul cu gag [\r%s\y]:
+Gag_MenuItem_PropSay = Chat:
+Gag_MenuItem_PropSayTeam = Chat Echipa:
+Gag_MenuItem_PropVoice = Chat vocal:
+Gag_MenuItem_Time = Timp:
+Gag_MenuItem_Confirm = Confirma!
+Gag_MenuItem_Reason = Motiv:
+Gag_MenuItem_Resolution =  Timp: \y%s\w (motiv: \y%s\w)
+Gag_MenuItem_Admin = Admin:
+Gag_MenuItem_Type = Tip:
+Gag_MenuItem_Length = Durata:
+Gag_MenuItem_Expire = Expira la:
+Gag_MenuItem_Left = Ramas:
+
+Gag_SelectFlags = Parametrii gag: [ \r%n\y ]
+Gag_EnterReason = Insereaza motivul gag-ului ->\n
+Gag_EnterTime = Insereaza timpul gag-ului ->
+
+Gag_Immunity = Imunitate_Gag
+Gag_Gagged = *GAG*
+
+Gag_ChatMsg_Reason = ^4Motiv:^1
+Gag_NotSet = Neselectat
+Gag_Permanent = *PERMANENT*
+
+Gag_AdminGagPlayer = ^3gag ^1jucatorul ^4%s^1
+Gag_AdminUngagPlayer = ^3inlaturare ^1gag jucatorului ^4%s^1
+Gag_PlayerNotConnected = ^3Jucatorul nu este conectat!
+Gag_PlayerAlreadyRemoved = ^3Jucatorul ^4%n^1 deja inlaturat!^1
+Gag_PlayerExpiredGag = ^3Jucaotrului ^4%n^1 i-a expirat gag-ul.
+
+Gag_NotEnoughPlayers = ^3Nu sunt suficienti jucatori pentru a deschide meniul!
+Gag_NoTemplatesAvailable_Reasons = Nu exista sabloane pentru motive.
+Gag_NoTemplatesAvailable_Times = Nu exista sabloane pentru timp.
+
+Gag_YouSetManual_Time = ^3Ai setat timpul personalizat:^1
+Gag_YouSetManual_Reason = ^3Ai setat motivul personalizat:^1
+Gag_NotValidTimeEntered = ^3Timpul inserat nu este valid:^1
+
+Gag_NotifyPlayer_BlockedChat = ^3Chat-ul ^1tau a fost ^4blocat^1.
+
+Gag_prefix = [^3GAG^1]

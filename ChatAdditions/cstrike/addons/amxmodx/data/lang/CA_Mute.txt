@@ -1,0 +1,153 @@
+[ru]
+Mute_MenuTitle = Заглушить игрока: 
+Mute_MuteAll = Заглушить всех
+
+Mute_YouMutePlayer = Вы НЕ слышите игрока
+Mute_YouUnmutePlayer = Вы снова слышите игрока
+
+Mute_NotEnoughPlayers = ^3Недостаточно игроков!
+Mute_PlayerNotConnected = ^3Игрок не подключен!
+
+Mute_PlayerMutedYou = Не слышит Вас
+
+Mute_PlayerNowMutedYou = теперь НЕ слышит Вас.
+Mute_PlayerNowUnmutedYou = вновь слышит Вас.
+
+Mute_UseTooOften = ^3Вы используете слишком часто!
+
+Mute_PlayerNowMutedAll = теперь НЕ слышит никого!
+Mute_PlayerNowUnmutedAll = снова слышит всех.
+
+Mute_prefix = [^3MUTE^1]
+
+[en]
+Mute_MenuTitle = Players mute menu:
+Mute_MuteAll = Mute all
+
+Mute_YouMutePlayer = Now you can't hear the player
+Mute_YouUnmutePlayer = You hear the player again
+
+Mute_NotEnoughPlayers = ^3Not enough players!
+Mute_PlayerNotConnected = ^3Player not connected!
+
+Mute_PlayerMutedYou = Muted you
+
+Mute_PlayerNowMutedYou = CAN'T hear you now.
+Mute_PlayerNowUnmutedYou = can hear you now.
+
+Mute_UseTooOften = ^3You use very often!
+
+Mute_PlayerNowMutedAll = CAN'T hear anybody now!
+Mute_PlayerNowUnmutedAll = can hear anybody now.
+
+Mute_prefix = [^3MUTE^1]
+
+[es]
+Mute_MenuTitle = Menu de Muteo de Jugadores:
+Mute_MuteAll = Mutear a Todos
+
+Mute_YouMutePlayer = Ahora no podes oir a ese jugador.
+Mute_YouUnmutePlayer = Ahora podes oir a ese jugador.
+
+Mute_NotEnoughPlayers = No hay suficiente jugadores!
+Mute_PlayerNotConnected = ^3Jugador no esta conectado!
+
+Mute_PlayerMutedYou = Te Muteo
+
+Mute_PlayerNowMutedYou = No puede oirte.
+Mute_PlayerNowUnmutedYou = Ahora puede oirte.
+
+Mute_UseTooOften = ^3Espera unos segundos antes de volver a usar!
+
+Mute_PlayerNowMutedAll = Ahora no escuchas a nadie.
+Mute_PlayerNowUnmutedAll = Ahora podes escuchar a todos.
+
+Mute_prefix = [^3MUTE^1]
+
+[de]
+Mute_MenuTitle = Spieler muten: 
+Mute_MuteAll = Alle muten
+
+Mute_YouMutePlayer = Der Spieler ist gemuted
+Mute_YouUnmutePlayer = Du kannst den Spieler wieder hören
+
+Mute_NotEnoughPlayers = ^3Nicht genug Spieler!
+Mute_PlayerNotConnected = ^3Spieler nicht verbunden!
+
+Mute_PlayerMutedYou = hat Dich gemuted
+
+Mute_PlayerNowMutedYou = hat Dich jetzt gemuted.
+Mute_PlayerNowUnmutedYou = kann Dich wieder hören.
+
+Mute_UseTooOften = ^3Warte ein paar Sekunden!
+
+Mute_PlayerNowMutedAll = Du hörst NIEMANDEN!
+Mute_PlayerNowUnmutedAll = Du hörst ALLE!
+
+Mute_prefix = [^3MUTE^1]
+
+[pl]
+Mute_MenuTitle = Menu mutowania graczy:
+Mute_MuteAll = Zmutuj wszystkich
+
+Mute_YouMutePlayer = Zmutowales
+Mute_YouUnmutePlayer = Odmutowales 
+
+Mute_NotEnoughPlayers = ^4Brak graczy, ktorych mozesz zmutowac!
+Mute_PlayerNotConnected = ^3Gracz nie jest polaczony!
+
+Mute_PlayerMutedYou = Zmutowany
+
+Mute_PlayerNowMutedYou = Zmutowal Cie.
+Mute_PlayerNowUnmutedYou = Odmutowal Cie
+
+Mute_UseTooOften = ^3Bardzo czesto tego uzywasz
+
+Mute_PlayerNowMutedAll = Zmutowales wszystkich!
+Mute_PlayerNowUnmutedAll = Odmutowales wszystkich
+
+Mute_prefix = [^3MUTE^1]
+
+[ua]
+Mute_MenuTitle = Заглушити гравця: 
+Mute_MuteAll = Заглушити всіх
+
+Mute_YouMutePlayer = Ви НЕ чуєте гравця
+Mute_YouUnmutePlayer = Ви знову чуєте гравця
+
+Mute_NotEnoughPlayers = ^3Недостатньо гравців!
+Mute_PlayerNotConnected = ^3Гравець не підключений!
+
+Mute_PlayerMutedYou = Не чує Вас
+
+Mute_PlayerNowMutedYou = тепер НЕ чує Вас.
+Mute_PlayerNowUnmutedYou = знову чує Вас.
+
+Mute_UseTooOften = ^3Ви використовуєте занадто часто!
+
+Mute_PlayerNowMutedAll = тепер НЕ чує нікого!
+Mute_PlayerNowUnmutedAll = знову чує всіх.
+
+Mute_prefix = [^3MUTE^1]
+
+[ro]
+Mute_MenuTitle = Meniul pentru mut al jucatorilor:
+Mute_MuteAll = Dezactiveaza tuturor
+
+Mute_YouMutePlayer = Nu mai auzi jucatorul
+Mute_YouUnmutePlayer = Auzi din nou jucatorul
+
+Mute_NotEnoughPlayers = ^3Nu sunt suficienti jucatori!
+Mute_PlayerNotConnected = ^3Jucatorul nu este conectat!
+
+Mute_PlayerMutedYou = Te-a restrictionat
+
+Mute_PlayerNowMutedYou = Nu te mai poate auzi.
+Mute_PlayerNowUnmutedYou = te poate auzi.
+
+Mute_UseTooOften = ^3Folosesti prea des!
+
+Mute_PlayerNowMutedAll = Nu poate auzi pe nimeni!
+Mute_PlayerNowUnmutedAll = poate sa ii auda pe toti.
+
+Mute_prefix = [^3MUTE^1]

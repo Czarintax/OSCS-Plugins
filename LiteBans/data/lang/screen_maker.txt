@@ -1,0 +1,23 @@
+[en]
+CHOOSE_PLAYER = Choose player
+
+TIME = Time
+SERVER = Server
+MAP = Map
+LINK = Send to
+
+[ru]
+CHOOSE_PLAYER = Выберите игрока
+
+TIME = Время
+SERVER = Сервер
+MAP = Карта
+LINK = Скинуть в
+
+[tr]
+CHOOSE_PLAYER = Oyuncu sec
+
+TIME = Saat
+SERVER = Server
+MAP = Map
+LINK = Yolla
